@@ -18,7 +18,7 @@ const count = ref(0);
 <style scoped>
 .btn {
   font-size: 16px;
-  color: blue;
+  color: white;
   border: 1px solid #ccc;
   background-color: #ccc;
   border-radius: 4px;
