@@ -16,12 +16,7 @@ const count = ref(0);
 </template>
 
 <style scoped>
-a {
-  color: #42b983;
-}
 .btn {
-  /* display: inline-flex; */
-  /* display: block; */
   font-size: 16px;
   color: blue;
   border: 1px solid #ccc;
