@@ -25,4 +25,7 @@ const count = ref(0);
   padding: 5px 16px;
   cursor: pointer;
 }
+.btn:hover {
+  background-color: #aaa;
+}
 </style>

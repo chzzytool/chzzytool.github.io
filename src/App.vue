@@ -1,11 +1,11 @@
 <script setup>
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup
-import HelloWorld from "./components/HelloWorld.vue";
+import Demo from "./components/Demo.vue";
 </script>
 
 <template>
-  <HelloWorld msg="Have a nice day!" />
+  <Demo msg="Have a nice day!" />
 </template>
 
 <style>
