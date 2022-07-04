@@ -10,7 +10,7 @@ const count = ref(0);
 
 <template>
   <h1>{{ msg }}</h1>
-  <h3>on push tags</h3>
+  <h3>on push anotated tags</h3>
   <button type="button" class="btn" @click="count++">
     Count is: {{ count }}
   </button>
